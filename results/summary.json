@@ -1,0 +1,20 @@
+{
+  "energy_saving_percent": 34.06,
+  "cells_in_sleep_mode": 9,
+  "baseline": {
+    "coverage": 0.9761871412560401,
+    "mean_tput_mbps": 3.282928675632095,
+    "edge_tput_mbps": 0.5649635278847149,
+    "power_w": 7429.323904874282,
+    "mean_sinr_db": 8.207337452093833,
+    "mean_rsrp_dbm": -87.78294315851946
+  },
+  "optimised": {
+    "coverage": 0.9664821112327517,
+    "mean_tput_mbps": 2.6453739994956065,
+    "edge_tput_mbps": 0.5891355835611725,
+    "power_w": 4898.637486229683,
+    "mean_sinr_db": 12.627991375768366,
+    "mean_rsrp_dbm": -95.68545074692777
+  }
+}
