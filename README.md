@@ -1,5 +1,12 @@
 # RAN Power Optimizer
 
+**English** | [Türkçe](README.tr.md)
+
+### 🚀 [Live demo: try it in your browser](https://ran-power-optimizer.streamlit.app)
+
+No installation needed. Press **Run optimisation** and change the scenario and QoS limits in the sidebar.
+(The app may need a few seconds to wake up if nobody has used it recently.)
+
 AI-driven energy saving for a mobile radio access network (LTE/5G macro layer).
 A genetic algorithm tunes **transmit power, electrical downtilt and cell sleep mode**
 for every sector so the network uses less energy while coverage and user throughput

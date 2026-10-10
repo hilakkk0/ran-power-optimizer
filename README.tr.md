@@ -2,6 +2,11 @@
 
 [English](README.md) | **Türkçe**
 
+### 🚀 [Canlı demo: tarayıcında dene](https://ran-power-optimizer.streamlit.app)
+
+Kurulum gerekmez. **Run optimisation** düğmesine bas, soldaki panelden senaryoyu ve hizmet kalitesi sınırlarını değiştir.
+(Uygulama bir süredir kullanılmadıysa uyanması birkaç saniye sürebilir.)
+
 Mobil şebekeler (LTE/5G makro katman) için yapay zekâ destekli enerji tasarrufu.
 Bir genetik algoritma, her sektörün **iletim gücünü, elektriksel eğimini (tilt) ve uyku
 modunu** ayarlar. Amaç, kapsama ve kullanıcı hızı belirlenen sınırlar içinde kalırken ağın
